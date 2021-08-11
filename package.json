@@ -5,7 +5,10 @@
         "type": "git",
         "url": "git+ssh://git@github.com/pun-ci/server.git"
     },
-    "author": "Lencse <leventeloki@gmail.com>",
+    "contributors": [
+        "Levente Löki <leventeloki@gmail.com>",
+        "Gabriella Varga <cs.gabriella91@gmail.com>"
+    ],
     "license": "MIT",
     "bugs": {
         "url": "https://github.com/pun-ci/server/issues"
